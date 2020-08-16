@@ -2,7 +2,7 @@
   <img src="https://github.com/lucassilva15/robot-resize-image/blob/master/.github/screen.gif"/>
 </p>
 
-# Backend-Appthlon
+# Robot Resize Images
 Robot images editor with progess bar
 
 Robot to resize images and edit with blurred background
@@ -35,4 +35,4 @@ Robot to resize images and edit with blurred background
 
 ## Licensing
 
-- Licensed under MIT (https://github.com/lucassilva15/backend-appthlon/blob/master/LICENSE.md)
+- Licensed under MIT (https://github.com/lucassilva15/robot-resize-image/blob/master/LICENSE)
