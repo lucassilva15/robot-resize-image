@@ -9,8 +9,8 @@ Robot to resize images and edit with blurred background
 
 ## Getting Started
 
-- Clone the repo: `git clone https://github.com/lucassilva15/backend-maxithlon.git`.
-- [Download from Github](https://github.com/lucassilva15/backend-maxithlon/archive/master.zip).
+- Clone the repo: `git clone https://github.com/lucassilva15/robot-resize-image.git`.
+- [Download from Github](https://github.com/lucassilva15/robot-resize-image/archive/master.zip).
 
 ### Prerequisites
 
