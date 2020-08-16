@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cli-progress": "^3.8.2",
+    "gm": "^1.23.1"
+  }
+}
