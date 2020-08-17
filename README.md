@@ -21,8 +21,8 @@ Robot to resize images and edit with blurred background
 
 ### Quick Setup
 ```
-- After clone the repo, install dependencies with yarn.
-- Add all images to the folder images.
+- After clone the repository, install dependencies with yarn. `yarn`
+- Add all images to images folder.
 - Run `yarn start`
 - Wait for processing.
 - Open the converted folder at the project root
